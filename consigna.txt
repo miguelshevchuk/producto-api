@@ -1,0 +1,23 @@
+Objetivo
+Construir una API backend que provea detalles de productos para usarse en una funcionalidad de comparación de ítems. La implementación debe seguir buenas prácticas de backend y exponer endpoints claros y eficientes para obtener los datos necesarios para comparar productos.
+
+Requisitos (Desarrollo de API Backend)
+Endpoint de API:
+Construir una API REST que devuelva detalles de múltiples ítems para comparar.
+La API debe devolver campos como: nombre del producto, URL de imagen, descripción, precio, calificación/rating y especificaciones.
+Incluir manejo básico de errores y comentarios inline para explicar la lógica.
+  
+Stack
+Se puede usar cualquier tecnología o framework backend.
+Simular persistencia usando archivos locales JSON/CSV o una base en memoria (por ejemplo SQLite o H2). No se requiere una base de datos real.
+
+Requisitos funcionales
+El modelo de producto debe incluir información esencial como (entre otros): ID, nombre, descripción, precio, tamaño, peso y color.
+Algunos productos pueden requerir información especializada. Por ejemplo, un smartphone debería incluir: capacidad de batería, cámara, memoria, almacenamiento, marca, versión del modelo y sistema operativo.
+Un usuario debe poder consultar comparaciones específicas entre ítems e ignorar otros campos, para enfocarse en los detalles más relevantes.
+  
+Requisitos no funcionales
+Se valorarán buenas prácticas en: manejo de errores, documentación, testing, y otros aspectos no funcionales relevantes.
+  
+Documentación y overview estratégico
+Incluir un README breve o un diagrama (opcional) explicando: diseño de la API, endpoints principales, instrucciones de setup y decisiones arquitectónicas clave.
