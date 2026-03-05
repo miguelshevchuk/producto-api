@@ -1,0 +1,9 @@
+com\hackerrank\productoapi\domain\model\vo\DescripcionTest.class
+com\hackerrank\productoapi\domain\model\vo\NombreTest.class
+com\hackerrank\productoapi\ProductoApiApplicationTests.class
+com\hackerrank\productoapi\application\usecase\CompareProductosUseCaseTest.class
+com\hackerrank\productoapi\infrastructure\input\rest\controller\ProductoRestControllerTest.class
+com\hackerrank\productoapi\domain\model\vo\PrecioTest.class
+com\hackerrank\productoapi\domain\model\vo\UrlImagenTest.class
+com\hackerrank\productoapi\application\usecase\FindProductosUseCaseTest.class
+com\hackerrank\productoapi\domain\model\vo\CalificacionTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hackerrank.productoapi.infrastructure.input.rest.controller.ProductoRestControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.117 s -- in com.hackerrank.productoapi.infrastructure.input.rest.controller.ProductoRestControllerTest
